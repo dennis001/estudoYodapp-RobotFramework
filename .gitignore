@@ -1,2 +1,10 @@
+# Ignore o diretório de resultados de testes
+output/
+results/
+reports/
+*.logs
+*.log
+*.out
+*.report
 node_modules
 logs
