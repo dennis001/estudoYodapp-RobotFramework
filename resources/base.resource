@@ -2,7 +2,7 @@
 
 Library    AppiumLibrary
 
-Resource     screen/login.resource
+Resource     screens/login.resource
 
 *** Variables ***
 ${START}    QAX

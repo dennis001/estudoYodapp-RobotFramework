@@ -1,7 +1,7 @@
 *** Settings ***
 
 Resource    ../resources/base.resource
-#Resource    ../resources/screen/login.resource/
+
 
 *** Test Cases ***
 Deve logar com sucesso
